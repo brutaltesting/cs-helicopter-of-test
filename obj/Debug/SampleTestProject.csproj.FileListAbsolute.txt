@@ -1,0 +1,6 @@
+C:\Users\Klas Flodqvist\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\SampleTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Klas Flodqvist\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Klas Flodqvist\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Klas Flodqvist\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Klas Flodqvist\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Klas Flodqvist\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
